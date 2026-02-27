@@ -1,6 +1,6 @@
 # DecryptCode Principal Web3 & Blockchain Engineer Assessment
 
-Welcome! This assessment evaluates your ability to work across smart contracts, backend services, and frontend dApps—typical of a senior Web3 engineer role.
+Welcome! This assessment evaluates your ability to work across smart contracts, backend services, and frontend dApps—typical of a Principal Web3 engineer role.
 
 **Time estimate:** 40–60 minutes for required tasks. Nice-to-haves add 15–30 min if time permits.
 
